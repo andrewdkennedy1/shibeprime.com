@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andrewdkennedy1/shibeprime.com/issues"
   },
-  "homepage": "https://github.com/andrewdkennedy1/shibeprime.com#readme"
+  "homepage": "https://github.com/andrewdkennedy1/shibeprime.com#readme",
+  "dependencies": {
+    "firebase": "^9.15.0"
+  }
 }
