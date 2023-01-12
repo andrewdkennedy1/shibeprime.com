@@ -4,7 +4,6 @@
   },
   "hosting": {
     "public": "public",
-    "notes": "notes",
     "ignore": [
       "firebase.json",
       "**/.*",
