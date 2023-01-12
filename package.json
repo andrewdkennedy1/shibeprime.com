@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andrewdkennedy1/shibeprime.com#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "firebase": "^9.15.0"
   }
 }
